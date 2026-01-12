@@ -1,9 +1,4 @@
-Got it — here is **ONE single, clean, copy-pasteable Markdown file**.
-Put this directly into `README.md`. Nothing else. No fragments.
 
----
-
-```markdown
 # Agentic LLM with Streaming Voice, Personalized Memory & Continual Learning
 
 ## 1. What is this project?
@@ -224,7 +219,4 @@ python benchmark.py
 | Continual learning  | Memory + decay          |
 | Personalization     | Context-aware responses |
 | Systems engineering | Voice + retrieval + LLM |
-
-This is exactly how **AI agent startups** build personalization systems.
-
 
